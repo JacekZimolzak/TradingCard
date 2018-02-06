@@ -1,0 +1,56 @@
+body {
+  border-style: solid;
+  border-width: thin;
+  border-color: lightgrey;
+  box-shadow: 5px 5px 5px lightgrey;
+  width: 320px;
+}
+
+.animal-name {
+  display: block;
+  border-style: hidden;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.animal-picture {
+  display: block;
+  border-style: hidden;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.description {
+  font-size: small;
+  border-style: solid;
+  border-width: thin;
+  border-color: lightgrey;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+}
+
+.interesting-fact {
+  font-style: italic;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+.detail-list{
+  list-style: none;
+  margin-left: 0;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+.list-item{
+  font-weight: bold;
+}
+
+.brief-description{
+  padding-left: 1em;
+  padding-right: 1em;
+}
